@@ -1,0 +1,30 @@
+#name-container {
+    display: flex;
+    flex-direction: row;
+}
+
+#logo {
+    margin-left: 10px;
+}
+
+.footer {
+    margin-top: 40px;
+}
+
+body {
+    background-color: #00006b;
+}
+
+.header {
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+a {
+    color:#797105;
+}
